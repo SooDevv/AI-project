@@ -8,4 +8,6 @@
 /build
 /captures
 .externalNativeBuild
-/assets
+/app/src/main/assets
+.idea
+/app/release
