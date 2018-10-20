@@ -2,7 +2,7 @@
 
 ## Android Demo
 
-<center>![](./media/106_6.gif)
+![](./media/106_6.gif)
 
 ## Description
 
