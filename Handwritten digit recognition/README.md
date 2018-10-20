@@ -3,7 +3,7 @@
 ## Android Demo
 
 <center>
-![](https://github.com/SooDevv/AI-project/blob/master/Handwritten%20digit%20recognition/media/106_6.gif?raw=true)
+![106_6](https://user-images.githubusercontent.com/33097467/47258692-cc935700-d4d9-11e8-8bc8-5c707072d430.gif)
 </center>
 
 ## Description
