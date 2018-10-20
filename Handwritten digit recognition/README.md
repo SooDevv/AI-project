@@ -2,7 +2,7 @@
 
 ## Android Demo
 
-
+![](106_6.gif)
 
 ## Description
 
@@ -14,11 +14,37 @@ The model i used is MLP(Multi layer perceptron) and CNN(Convolution neural netwo
 
 - Window10
 - Colab
-- Python3, Keras, TFLite
+- Python.3.6, Keras, TFLite
 - Android Studio 3.0, Gradle 3.1.3
 
 ## Data set
 - [MNIST](http://yann.lecun.com/exdb/mnist/)
+
+## 실행 방법
+```
+$ App Name
+.
+├── manifest
+│   └── AndroidManifest.xml
+├── java
+│   ├── Classifier
+│   ├── MainActivity
+│   └── Result
+├── assets
+│   └── mnist_mlp.tflite
+├── res
+│   ├── drawble   
+│   ├── layout  
+│   │   └── activity_main.xml
+│   ├── mipmap
+│   └── values
+│       ├── colors.xml
+│       ├── strings.xml
+│       └── styles.xml
+└── Gradle
+    ├── build.gradle(Project:MNIST-Android)
+    └── build.gradle(Module:app)
+```
 
 ## Reference
 
