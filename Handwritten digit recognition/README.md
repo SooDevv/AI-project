@@ -1,8 +1,8 @@
 # Handwritten Digits Recognition
 
 ## Android Demo
+<center>![](106_6.gif)</center>
 
-![](106_6.gif)
 
 ## Description
 
