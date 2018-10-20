@@ -2,9 +2,7 @@
 
 ## Android Demo
 
-<center>
-![106_6](https://user-images.githubusercontent.com/33097467/47258692-cc935700-d4d9-11e8-8bc8-5c707072d430.gif)
-</center>
+![](./media/106_6.gif)
 
 ## Description
 
